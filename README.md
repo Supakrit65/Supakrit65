@@ -49,8 +49,7 @@ An automatic plant watering system with a sensor and API built with FastAPI and 
 
 - **GitHub:** https://github.com/Exceed19-Group14/project-backend
 
-<br/>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Supakrit65&show_icons=true&theme=dark" alt="Supakrit's GitHub stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&hide=TeX&layout=compact&bg_color=ffffff&text_color=333333" alt="Supakrit's Most Used Language" style="margin-left: 20px;" />
-</div>
+### Github Profile Trophies 🏆:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Supakrit65&theme=nord&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&hide=TeX&layout=compact&bg_color=ffffff&text_color=333333" alt="Supakrit's Most Used Language" style="margin-left: 20px;" />
