@@ -40,14 +40,14 @@ A film review and discovery web app built with Django, PostgreSQL, TailwindCSS, 
 
 - **GitHub:** https://github.com/WongNung/WongNung
 
-### AquaBot
+### SoTA
 
-[![GitHub stars](https://img.shields.io/github/stars/Exceed19-Group14/project-backend?style=social)](https://github.com/Exceed19-Group14/project-backend/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Exceed19-Group14/project-backend?style=social)](https://github.com/Exceed19-Group14/project-backend/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/SPaM-Skill-Issue/sota?style=social)](https://github.com//SPaM-Skill-Issue/sota/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SPaM-Skill-Issue/sota?style=social)](https://github.com//SPaM-Skill-Issue/sota/network/members)
 
-An automatic plant watering system with a sensor and API built with FastAPI and MongoDB.
+SoTA or System of Tournamental Athleticism (yes, those are real words) is a project that simulates how the tech behind IOC might work in barebone
 
-- **GitHub:** https://github.com/Exceed19-Group14/project-backend
+- **GitHub:** [https://github.com/SPaM-Skill-Issue/sota](https://github.com/SPaM-Skill-Issue/sota)
 
 ### Github Profile Trophies 🏆:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Supakrit65&theme=nord&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
