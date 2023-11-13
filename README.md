@@ -1,9 +1,10 @@
-# Hi there, I'm Supakrit 👋🏽
+![Header](images/header.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Supakrit65?style=social)](https://github.com/Supakrit65)
-[![Linkedin Badge](https://img.shields.io/badge/-supakritaphonmaeklong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supakritaphonmaeklong/)](https://www.linkedin.com/in/supakritaphonmaeklong/)
+[![LinkedIn Badge](https://img.shields.io/badge/-supakritaphonmaeklong-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/supakritaphonmaeklong/)](https://www.linkedin.com/in/supakritaphonmaeklong/)
 ![Profile views](https://komarev.com/ghpvc/?username=Supakrit65&label=Profile%20views&color=0e75b6&style=flat)
 
+<img src="images/github-user-contribution.svg" />
 I'm a software engineering student at Kasetsart University and a passionate software developer with experience in various tech stacks.
 
 ## Skills
@@ -16,14 +17,10 @@ I'm a software engineering student at Kasetsart University and a passionate soft
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,18 +35,16 @@ I'm a software engineering student at Kasetsart University and a passionate soft
 
 A film review and discovery web app built with Django, PostgreSQL, TailwindCSS, Docker, Nginx, and Agile.
 
-- **GitHub:** https://github.com/WongNung/WongNung
+- **GitHub:** [https://github.com/WongNung/WongNung](https://github.com/WongNung/WongNung)
 
 ### SoTA
 
 [![GitHub stars](https://img.shields.io/github/stars/SPaM-Skill-Issue/sota?style=social)](https://github.com//SPaM-Skill-Issue/sota/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SPaM-Skill-Issue/sota?style=social)](https://github.com//SPaM-Skill-Issue/sota/network/members)
 
-SoTA or System of Tournamental Athleticism (yes, those are real words) is a project that simulates how the tech behind IOC might work in barebone
+SoTA or System of Tournamental Athleticism (yes, those are real words) is a project that simulates how the tech behind IOC might work in barebone.
 
 - **GitHub:** [https://github.com/SPaM-Skill-Issue/sota](https://github.com/SPaM-Skill-Issue/sota)
 
-### Github Profile Trophies 🏆:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Supakrit65&theme=nord&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&hide=TeX&layout=compact&bg_color=ffffff&text_color=333333" alt="Supakrit's Most Used Language" style="margin-left: 20px;" />
+## Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supakrit65\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
