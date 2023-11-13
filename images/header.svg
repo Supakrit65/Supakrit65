@@ -23,33 +23,32 @@ svg {
 }
 
 rect.headerRect {
-  fill: #96C291; /* Facebook blue color */
+  fill: #96C291;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
-  fill: #96C291; /* Facebook blue color */
+  fill: #96C291;
   fill-opacity: 50%;
 }
 
 .wave {
   animation: wave 3s linear;
   animation-iteration-count: infinite;
-  fill: #96C291; /* Facebook blue color */
-}
+  fill: #96C291;
 
 .wave:hover {
-  fill: #96C291; /* Facebook blue color */
+  fill: #96C291; 
 }
 
 .drop:hover {
-  fill: #96C291; /* A lighter color for the drop */
+  fill: #96C291;
 }
 
 .drop {
-  fill: #96C291; /* Facebook blue color */
+  fill: #96C291; 
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #96C291; /* Facebook blue color */
+  stroke: #96C291; 
   stroke-width: 0.5;
   transform: translateY(25px);
   transform-box: fill-box;
