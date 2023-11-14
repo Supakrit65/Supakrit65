@@ -22,15 +22,6 @@ svg {
   overflow: visible;
 }
 
-rect.headerRect {
-  fill: #96C291; /* Facebook blue color */
-  fill-opacity: 20%;
-}
-rect.headerRect:hover {
-  fill: #96C291; /* Facebook blue color */
-  fill-opacity: 50%;
-}
-
 .wave {
   animation: wave 3s linear;
   animation-iteration-count: infinite;
