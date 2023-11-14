@@ -4,6 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-supakritaphonmaeklong-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/supakritaphonmaeklong/)](https://www.linkedin.com/in/supakritaphonmaeklong/)
 ![Profile views](https://komarev.com/ghpvc/?username=Supakrit65&label=Profile%20views&color=0e75b6&style=flat)
 
+# Supakrit65
 <img src="images/github-user-contribution.svg" />
 I'm a software engineering student at Kasetsart University and a passionate software developer with experience in various tech stacks.
 
