@@ -51,5 +51,7 @@ SoTA or System of Tournamental Athleticism (yes, those are real words) is a proj
 
 - **GitHub:** [https://github.com/SPaM-Skill-Issue/sota](https://github.com/SPaM-Skill-Issue/sota)
 
-## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supakrit65\&bg_color=30,96C291,101a21\&title_color=fff\&text_color=fff)
+| GitHub Stats | Programming Language Stats |
+|--------------|----------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supakrit65&theme=blue-green) | ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&theme=blue-green) |
+
