@@ -1,12 +1,11 @@
-![Header](images/header.svg)
 
+# Supakrit65
 [![GitHub followers](https://img.shields.io/github/followers/Supakrit65?style=social)](https://github.com/Supakrit65)
 [![LinkedIn Badge](https://img.shields.io/badge/-supakritaphonmaeklong-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/supakritaphonmaeklong/)](https://www.linkedin.com/in/supakritaphonmaeklong/)
 ![Profile views](https://komarev.com/ghpvc/?username=Supakrit65&label=Profile%20views&color=0e75b6&style=flat)
 
-# Supakrit65
 <img src="images/github-user-contribution.svg" />
-I'm a software engineering student at Kasetsart University and a passionate software developer with experience in various tech stacks.
+I am a junior software engineering student at Kasetsart University. My passion lies in data analytics, data science, machine learning, and AI.
 
 ## Skills
 
@@ -22,14 +21,15 @@ I'm a software engineering student at Kasetsart University and a passionate soft
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks and Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
-
 
 ## Recent Projects
 
@@ -51,7 +51,10 @@ SoTA or System of Tournamental Athleticism (yes, those are real words) is a proj
 
 - **GitHub:** [https://github.com/SPaM-Skill-Issue/sota](https://github.com/SPaM-Skill-Issue/sota)
 
+### 🚀 Quick Stats
+
 | GitHub Stats | Programming Language Stats |
-|--------------|----------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supakrit65&theme=blue-green) | ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&theme=blue-green) |
+|--------------|----------------------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supakrit65&theme=default) | ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supakrit65&theme=default) |
+
 
